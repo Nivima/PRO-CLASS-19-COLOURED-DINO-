@@ -1,1 +1,3 @@
-# PRO-CLASS-19-COLOURED-DINO-
+# Inspired by Trex Game on Google Chrome.
+
+This is the improvised version!
